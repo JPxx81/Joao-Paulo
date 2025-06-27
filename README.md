@@ -1,9 +1,7 @@
-# Joao-Paulo
+# 🛰🛰🛰 Olá, eu sou Joao-Paulo!
 
 <h4> Projeto de Carreira em Tecnologia em andamento...</h4>
 
-🚀 Olá, eu sou [Seu Nome Completo]!
-Bem-vindo(a) ao meu cantinho no GitHub. 👋
 Sou [Seu Cargo/Título, ex: Desenvolvedor Front-end, Estudante de Ciência da Computação, Entusiasta de IA], apaixonado(a) por [sua principal área de interesse, ex: criar interfaces intuitivas, explorar dados, aprender novas tecnologias].
 
 Sobre Mim 🌟
