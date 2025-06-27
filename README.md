@@ -7,3 +7,9 @@ Formado em Ciência da Computação, buscando colocação no mercado de tecnolog
 Atualmente não inserido no mercado e trabalhando em outros setores... 
 
 Sempre interessado em aprender novas tecnologias para estar pronto quando a oportunidade chegar...
+
+# Tecnologias que estudo!
+
+
+
+
