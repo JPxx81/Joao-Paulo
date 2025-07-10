@@ -1,11 +1,13 @@
 # 🛰🛰 Olá, eu sou Joao Paulo! 🛰🛰
 
+<div align="center">
 <h3> Projeto de Carreira em Tecnologia em andamento...</h3>
+</div>
 
 # 💫 About Me:
 
 <div align="center">
-Formado em Ciência da Computação, buscando colocação no mercado de tecnologia... Atualmente não inserido no mercado e trabalhando em outros setores... Sempre interessado em aprender novas tecnologias para estar pronto quando a oportunidade chegar...
+🎓Formado em Ciência da Computação, buscando colocação no mercado de tecnologia... Atualmente não inserido no mercado e trabalhando em outros setores... Sempre interessado em aprender novas tecnologias para estar pronto quando a oportunidade chegar...
 </div>
 
 # 💻 Linguagens e Tecnologias utilizadas:
